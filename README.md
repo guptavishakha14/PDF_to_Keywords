@@ -8,4 +8,4 @@
 * Removed stopwords from the text.
 * Extracted features using Part-of-Speech (POS) tagging.
 * Extracted keywords using term frequency.
-* Preprocessed the extracted text from PDF and displayed the count of Extracted text, Extracted Features and Keywords. 
+* Preprocessed the extracted text (in Marathi) from PDF and displayed the count of Extracted text, Extracted Features and Keywords. 
